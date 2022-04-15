@@ -1,0 +1,15 @@
+.notbold {
+    font-weight: normal;
+}
+
+.color {
+    color: darkgrey;
+}
+
+.paragraph {
+    color: darkblue;
+}
+
+.font {
+    font-family: Arial, Helvetica, sans-serif;
+}

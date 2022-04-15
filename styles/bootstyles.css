@@ -1,0 +1,38 @@
+.navheader {
+    top: 5px;
+    left: 5px;
+    right: 5px;
+    height: 140px;
+    z-index: 2;
+    border-bottom: solid 3.5px lightgrey;
+    background-color: darkgray;
+    font-family: sans-serif;
+}
+
+.mainbody {
+    top: 114px;
+    bottom: 64px;
+    left: 114px;
+    right: 114px;
+    padding-right: 5px;
+    padding-bottom: 60 px;
+}
+
+.footer {
+    bottom: 2.5px;
+    height: 65;
+    left: 2.5px;
+    right: 2.5px;
+    text-decoration: #555555;
+    text-align: center;
+    position: fixed;
+    background-color: lightgrey;
+}
+
+.headertext {
+    font-size: 30px;
+    text-align: center;
+    text-decoration-color: azure;
+    font-family: sans-serif;
+    
+}
